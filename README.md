@@ -19,4 +19,4 @@
 
 ###
 
-<a href="https://bravudo.github.io/Welcome/" target="_blank">🌐 Acesse meu Portfólio</a>
+<a href="https://bravudo.github.io/Welcome/" target="_blank">🌐 Conheça meu Portfólio</a>
