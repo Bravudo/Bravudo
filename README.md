@@ -20,3 +20,4 @@
 ###
 
 <a href="https://bravudo.github.io/Welcome/" target="_blank">🌐 Conheça meu Portfólio</a>
+<img src="https://custom-doodle.com/wp-content/uploads/doodle/fnf-boyfriend-holding-girlfriend/fnf-boyfriend-holding-girlfriend-doodle.gif" height="60" alt="fnf">
