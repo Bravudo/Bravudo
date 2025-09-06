@@ -7,7 +7,7 @@
             srcset="">
   </picture>
 
-  <h2 style="color:#B9C0DA; margin-bottom:18px;">🔹Eae, Beleza? Eu sou Gabriel Cursino, Programador Full Stack dedicado a Python, CSS, C++ e Javascript.</h2>
+  <h2 style="color:#B9C0DA; margin-bottom:18px;">🔹Programador Full Stack dedicado a Python, CSS, C++ e Javascript.</h2>
 
   <table width="100%" align="center" cellspacing="8">
     <tr>
